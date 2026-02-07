@@ -1,0 +1,10 @@
+// project-wizard.js
+// Archivo creado automáticamente por PortalHub Creator v1.3
+
+console.log('project-wizard.js cargado');
+
+function init() {
+    console.log('Aplicación inicializada');
+}
+
+module.exports = { init };
